@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B89B0B522FE04235008D22C7 /* WG-ShortsBlcok Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B89B0B512FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		B89B0B5C2FE04235008D22C7 /* WG-ShortsBlcok Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B89B0B5B2FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B89B0B522FE04235008D22C7 /* WG-ShortsBlock Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B89B0B512FE04235008D22C7 /* WG-ShortsBlock Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B89B0B5C2FE04235008D22C7 /* WG-ShortsBlock Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B89B0B5B2FE04235008D22C7 /* WG-ShortsBlock Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +35,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				B89B0B522FE04235008D22C7 /* WG-ShortsBlcok Extension.appex in Embed Foundation Extensions */,
+				B89B0B522FE04235008D22C7 /* WG-ShortsBlock Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,7 +46,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				B89B0B5C2FE04235008D22C7 /* WG-ShortsBlcok Extension.appex in Embed Foundation Extensions */,
+				B89B0B5C2FE04235008D22C7 /* WG-ShortsBlock Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -54,14 +54,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B89B0B342FE04235008D22C7 /* WG-ShortsBlcok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WG-ShortsBlcok.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B89B0B462FE04235008D22C7 /* WG-ShortsBlcok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WG-ShortsBlcok.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B89B0B512FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WG-ShortsBlcok Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B89B0B5B2FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WG-ShortsBlcok Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B89B0B342FE04235008D22C7 /* WG-ShortsBlock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WG-ShortsBlock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B89B0B462FE04235008D22C7 /* WG-ShortsBlock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WG-ShortsBlock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B89B0B512FE04235008D22C7 /* WG-ShortsBlock Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WG-ShortsBlock Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B89B0B5B2FE04235008D22C7 /* WG-ShortsBlock Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WG-ShortsBlock Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B89B0B7F2FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlcok (iOS)" target */ = {
+		B89B0B7F2FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlock (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: Resources/Main.html",
@@ -71,23 +71,23 @@
 				Resources/Style.css,
 				ViewController.swift,
 			);
-			target = B89B0B332FE04235008D22C7 /* WG-ShortsBlcok (iOS) */;
+			target = B89B0B332FE04235008D22C7 /* WG-ShortsBlock (iOS) */;
 		};
-		B89B0B832FE04235008D22C7 /* Exceptions for "iOS (Extension)" folder in "WG-ShortsBlcok Extension (iOS)" target */ = {
+		B89B0B832FE04235008D22C7 /* Exceptions for "iOS (Extension)" folder in "WG-ShortsBlock Extension (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = B89B0B502FE04235008D22C7 /* WG-ShortsBlcok Extension (iOS) */;
+			target = B89B0B502FE04235008D22C7 /* WG-ShortsBlock Extension (iOS) */;
 		};
-		B89B0B882FE04235008D22C7 /* Exceptions for "iOS (App)" folder in "WG-ShortsBlcok (iOS)" target */ = {
+		B89B0B882FE04235008D22C7 /* Exceptions for "iOS (App)" folder in "WG-ShortsBlock (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = B89B0B332FE04235008D22C7 /* WG-ShortsBlcok (iOS) */;
+			target = B89B0B332FE04235008D22C7 /* WG-ShortsBlock (iOS) */;
 		};
-		B89B0B892FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlcok (macOS)" target */ = {
+		B89B0B892FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlock (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: Resources/Main.html",
@@ -97,16 +97,16 @@
 				Resources/Style.css,
 				ViewController.swift,
 			);
-			target = B89B0B452FE04235008D22C7 /* WG-ShortsBlcok (macOS) */;
+			target = B89B0B452FE04235008D22C7 /* WG-ShortsBlock (macOS) */;
 		};
-		B89B0B8D2FE04235008D22C7 /* Exceptions for "macOS (Extension)" folder in "WG-ShortsBlcok Extension (macOS)" target */ = {
+		B89B0B8D2FE04235008D22C7 /* Exceptions for "macOS (Extension)" folder in "WG-ShortsBlock Extension (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = B89B0B5A2FE04235008D22C7 /* WG-ShortsBlcok Extension (macOS) */;
+			target = B89B0B5A2FE04235008D22C7 /* WG-ShortsBlock Extension (macOS) */;
 		};
-		B89B0B922FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlcok Extension (iOS)" target */ = {
+		B89B0B922FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlock Extension (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
@@ -119,9 +119,9 @@
 				Resources/popup.js,
 				SafariWebExtensionHandler.swift,
 			);
-			target = B89B0B502FE04235008D22C7 /* WG-ShortsBlcok Extension (iOS) */;
+			target = B89B0B502FE04235008D22C7 /* WG-ShortsBlock Extension (iOS) */;
 		};
-		B89B0B932FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlcok Extension (macOS)" target */ = {
+		B89B0B932FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlock Extension (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
@@ -134,7 +134,7 @@
 				Resources/popup.js,
 				SafariWebExtensionHandler.swift,
 			);
-			target = B89B0B5A2FE04235008D22C7 /* WG-ShortsBlcok Extension (macOS) */;
+			target = B89B0B5A2FE04235008D22C7 /* WG-ShortsBlock Extension (macOS) */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -142,8 +142,8 @@
 		B89B0B1C2FE04233008D22C7 /* Shared (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B89B0B7F2FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlcok (iOS)" target */,
-				B89B0B892FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlcok (macOS)" target */,
+				B89B0B7F2FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlock (iOS)" target */,
+				B89B0B892FE04235008D22C7 /* Exceptions for "Shared (App)" folder in "WG-ShortsBlock (macOS)" target */,
 			);
 			path = "Shared (App)";
 			sourceTree = "<group>";
@@ -151,8 +151,8 @@
 		B89B0B252FE04235008D22C7 /* Shared (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B89B0B922FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlcok Extension (iOS)" target */,
-				B89B0B932FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlcok Extension (macOS)" target */,
+				B89B0B922FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlock Extension (iOS)" target */,
+				B89B0B932FE04235008D22C7 /* Exceptions for "Shared (Extension)" folder in "WG-ShortsBlock Extension (macOS)" target */,
 			);
 			explicitFolders = (
 				Resources/_locales,
@@ -164,7 +164,7 @@
 		B89B0B362FE04235008D22C7 /* iOS (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B89B0B882FE04235008D22C7 /* Exceptions for "iOS (App)" folder in "WG-ShortsBlcok (iOS)" target */,
+				B89B0B882FE04235008D22C7 /* Exceptions for "iOS (App)" folder in "WG-ShortsBlock (iOS)" target */,
 			);
 			path = "iOS (App)";
 			sourceTree = "<group>";
@@ -177,7 +177,7 @@
 		B89B0B552FE04235008D22C7 /* iOS (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B89B0B832FE04235008D22C7 /* Exceptions for "iOS (Extension)" folder in "WG-ShortsBlcok Extension (iOS)" target */,
+				B89B0B832FE04235008D22C7 /* Exceptions for "iOS (Extension)" folder in "WG-ShortsBlock Extension (iOS)" target */,
 			);
 			path = "iOS (Extension)";
 			sourceTree = "<group>";
@@ -185,7 +185,7 @@
 		B89B0B5F2FE04235008D22C7 /* macOS (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B89B0B8D2FE04235008D22C7 /* Exceptions for "macOS (Extension)" folder in "WG-ShortsBlcok Extension (macOS)" target */,
+				B89B0B8D2FE04235008D22C7 /* Exceptions for "macOS (Extension)" folder in "WG-ShortsBlock Extension (macOS)" target */,
 			);
 			path = "macOS (Extension)";
 			sourceTree = "<group>";
@@ -240,10 +240,10 @@
 		B89B0B352FE04235008D22C7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B89B0B342FE04235008D22C7 /* WG-ShortsBlcok.app */,
-				B89B0B462FE04235008D22C7 /* WG-ShortsBlcok.app */,
-				B89B0B512FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */,
-				B89B0B5B2FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */,
+				B89B0B342FE04235008D22C7 /* WG-ShortsBlock.app */,
+				B89B0B462FE04235008D22C7 /* WG-ShortsBlock.app */,
+				B89B0B512FE04235008D22C7 /* WG-ShortsBlock Extension.appex */,
+				B89B0B5B2FE04235008D22C7 /* WG-ShortsBlock Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -251,9 +251,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B89B0B332FE04235008D22C7 /* WG-ShortsBlcok (iOS) */ = {
+		B89B0B332FE04235008D22C7 /* WG-ShortsBlock (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B89B0B852FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok (iOS)" */;
+			buildConfigurationList = B89B0B852FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock (iOS)" */;
 			buildPhases = (
 				B89B0B302FE04235008D22C7 /* Sources */,
 				B89B0B312FE04235008D22C7 /* Frameworks */,
@@ -268,16 +268,16 @@
 			fileSystemSynchronizedGroups = (
 				B89B0B362FE04235008D22C7 /* iOS (App) */,
 			);
-			name = "WG-ShortsBlcok (iOS)";
+			name = "WG-ShortsBlock (iOS)";
 			packageProductDependencies = (
 			);
 			productName = "WG-ShortsBlcok (iOS)";
-			productReference = B89B0B342FE04235008D22C7 /* WG-ShortsBlcok.app */;
+			productReference = B89B0B342FE04235008D22C7 /* WG-ShortsBlock.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B89B0B452FE04235008D22C7 /* WG-ShortsBlcok (macOS) */ = {
+		B89B0B452FE04235008D22C7 /* WG-ShortsBlock (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B89B0B8F2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok (macOS)" */;
+			buildConfigurationList = B89B0B8F2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock (macOS)" */;
 			buildPhases = (
 				B89B0B422FE04235008D22C7 /* Sources */,
 				B89B0B432FE04235008D22C7 /* Frameworks */,
@@ -292,16 +292,16 @@
 			fileSystemSynchronizedGroups = (
 				B89B0B472FE04235008D22C7 /* macOS (App) */,
 			);
-			name = "WG-ShortsBlcok (macOS)";
+			name = "WG-ShortsBlock (macOS)";
 			packageProductDependencies = (
 			);
 			productName = "WG-ShortsBlcok (macOS)";
-			productReference = B89B0B462FE04235008D22C7 /* WG-ShortsBlcok.app */;
+			productReference = B89B0B462FE04235008D22C7 /* WG-ShortsBlock.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B89B0B502FE04235008D22C7 /* WG-ShortsBlcok Extension (iOS) */ = {
+		B89B0B502FE04235008D22C7 /* WG-ShortsBlock Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B89B0B802FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok Extension (iOS)" */;
+			buildConfigurationList = B89B0B802FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock Extension (iOS)" */;
 			buildPhases = (
 				B89B0B4D2FE04235008D22C7 /* Sources */,
 				B89B0B4E2FE04235008D22C7 /* Frameworks */,
@@ -314,16 +314,16 @@
 			fileSystemSynchronizedGroups = (
 				B89B0B552FE04235008D22C7 /* iOS (Extension) */,
 			);
-			name = "WG-ShortsBlcok Extension (iOS)";
+			name = "WG-ShortsBlock Extension (iOS)";
 			packageProductDependencies = (
 			);
 			productName = "WG-ShortsBlcok Extension (iOS)";
-			productReference = B89B0B512FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */;
+			productReference = B89B0B512FE04235008D22C7 /* WG-ShortsBlock Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		B89B0B5A2FE04235008D22C7 /* WG-ShortsBlcok Extension (macOS) */ = {
+		B89B0B5A2FE04235008D22C7 /* WG-ShortsBlock Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B89B0B8A2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok Extension (macOS)" */;
+			buildConfigurationList = B89B0B8A2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock Extension (macOS)" */;
 			buildPhases = (
 				B89B0B572FE04235008D22C7 /* Sources */,
 				B89B0B582FE04235008D22C7 /* Frameworks */,
@@ -336,11 +336,11 @@
 			fileSystemSynchronizedGroups = (
 				B89B0B5F2FE04235008D22C7 /* macOS (Extension) */,
 			);
-			name = "WG-ShortsBlcok Extension (macOS)";
+			name = "WG-ShortsBlock Extension (macOS)";
 			packageProductDependencies = (
 			);
 			productName = "WG-ShortsBlcok Extension (macOS)";
-			productReference = B89B0B5B2FE04235008D22C7 /* WG-ShortsBlcok Extension.appex */;
+			productReference = B89B0B5B2FE04235008D22C7 /* WG-ShortsBlock Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -367,7 +367,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B89B0B1B2FE04233008D22C7 /* Build configuration list for PBXProject "WG-ShortsBlcok" */;
+			buildConfigurationList = B89B0B1B2FE04233008D22C7 /* Build configuration list for PBXProject "WG-ShortsBlock" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -381,10 +381,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B89B0B332FE04235008D22C7 /* WG-ShortsBlcok (iOS) */,
-				B89B0B452FE04235008D22C7 /* WG-ShortsBlcok (macOS) */,
-				B89B0B502FE04235008D22C7 /* WG-ShortsBlcok Extension (iOS) */,
-				B89B0B5A2FE04235008D22C7 /* WG-ShortsBlcok Extension (macOS) */,
+				B89B0B332FE04235008D22C7 /* WG-ShortsBlock (iOS) */,
+				B89B0B452FE04235008D22C7 /* WG-ShortsBlock (macOS) */,
+				B89B0B502FE04235008D22C7 /* WG-ShortsBlock Extension (iOS) */,
+				B89B0B5A2FE04235008D22C7 /* WG-ShortsBlock Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -454,12 +454,12 @@
 /* Begin PBXTargetDependency section */
 		B89B0B542FE04235008D22C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B89B0B502FE04235008D22C7 /* WG-ShortsBlcok Extension (iOS) */;
+			target = B89B0B502FE04235008D22C7 /* WG-ShortsBlock Extension (iOS) */;
 			targetProxy = B89B0B532FE04235008D22C7 /* PBXContainerItemProxy */;
 		};
 		B89B0B5E2FE04235008D22C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B89B0B5A2FE04235008D22C7 /* WG-ShortsBlcok Extension (macOS) */;
+			target = B89B0B5A2FE04235008D22C7 /* WG-ShortsBlock Extension (macOS) */;
 			targetProxy = B89B0B5D2FE04235008D22C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -487,7 +487,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok.Extension";
-				PRODUCT_NAME = "WG-ShortsBlcok Extension";
+				PRODUCT_NAME = "WG-ShortsBlock Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -521,7 +521,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok.Extension";
-				PRODUCT_NAME = "WG-ShortsBlcok Extension";
+				PRODUCT_NAME = "WG-ShortsBlock Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -563,7 +563,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok";
-				PRODUCT_NAME = "WG-ShortsBlcok";
+				PRODUCT_NAME = "WG-ShortsBlock";
 				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -604,7 +604,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok";
-				PRODUCT_NAME = "WG-ShortsBlcok";
+				PRODUCT_NAME = "WG-ShortsBlock";
 				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -642,7 +642,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok.Extension";
-				PRODUCT_NAME = "WG-ShortsBlcok Extension";
+				PRODUCT_NAME = "WG-ShortsBlock Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -678,7 +678,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok.Extension";
-				PRODUCT_NAME = "WG-ShortsBlcok Extension";
+				PRODUCT_NAME = "WG-ShortsBlock Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -718,7 +718,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok";
-				PRODUCT_NAME = "WG-ShortsBlcok";
+				PRODUCT_NAME = "WG-ShortsBlock";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -759,7 +759,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "wgroup.WG-ShortsBlcok";
-				PRODUCT_NAME = "WG-ShortsBlcok";
+				PRODUCT_NAME = "WG-ShortsBlock";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -890,7 +890,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B89B0B1B2FE04233008D22C7 /* Build configuration list for PBXProject "WG-ShortsBlcok" */ = {
+		B89B0B1B2FE04233008D22C7 /* Build configuration list for PBXProject "WG-ShortsBlock" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B89B0B942FE04235008D22C7 /* Debug */,
@@ -899,7 +899,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B89B0B802FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok Extension (iOS)" */ = {
+		B89B0B802FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B89B0B812FE04235008D22C7 /* Debug */,
@@ -908,7 +908,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B89B0B852FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok (iOS)" */ = {
+		B89B0B852FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B89B0B862FE04235008D22C7 /* Debug */,
@@ -917,7 +917,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B89B0B8A2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok Extension (macOS)" */ = {
+		B89B0B8A2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B89B0B8B2FE04235008D22C7 /* Debug */,
@@ -926,7 +926,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B89B0B8F2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlcok (macOS)" */ = {
+		B89B0B8F2FE04235008D22C7 /* Build configuration list for PBXNativeTarget "WG-ShortsBlock (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B89B0B902FE04235008D22C7 /* Debug */,
